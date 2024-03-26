@@ -1,6 +1,5 @@
 #!/bin/bash
 
-#Skripta za ispisivanje linija između određenih brojeva linija:
 
 if [ $# -ne 3 ]; then
     echo "Usage: $0 <filename> <start_line> <end_line>"
