@@ -1,6 +1,6 @@
-#Skripta za ispis datoteka koje započinju određenim znakom:
-
 #!/bin/bash
+
+#Skripta za ispis datoteka koje započinju određenim znakom:
 
 if [ $# -ne 2 ]; then
     echo "Usage: $0 <directory> <starting_character>"
