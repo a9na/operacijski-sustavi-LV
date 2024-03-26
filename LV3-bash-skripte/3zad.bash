@@ -1,6 +1,6 @@
-#Skripta za računanje faktorijela:
-
 #!/bin/bash
+
+#Skripta za računanje faktorijela:
 
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <number>"
