@@ -1,6 +1,6 @@
-#Skripta za brisanje pojavljivanja stringa u datoteci:
-
 #!/bin/bash
+
+#Skripta za brisanje pojavljivanja stringa u datoteci:
 
 if [ $# -ne 2 ]; then
     echo "Usage: $0 <string> <filename>"
