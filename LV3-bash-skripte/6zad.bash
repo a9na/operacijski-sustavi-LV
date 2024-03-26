@@ -1,6 +1,6 @@
-#Skripta za provjeru palindroma:
-
 #!/bin/bash
+
+#Skripta za provjeru palindroma:
 
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <string>"
