@@ -1,6 +1,6 @@
-#Skripta za provjeru prostog broja:
-
 #!/bin/bash
+
+#Skripta za provjeru prostog broja:
 
 if [ $# -ne 1 ]; then
     echo "Usage: $0 <number>"
